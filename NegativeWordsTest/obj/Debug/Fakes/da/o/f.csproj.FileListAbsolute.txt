@@ -1,0 +1,9 @@
+C:\Users\hemansj.TOSHIBATEC\Documents\Visual Studio 2012\Projects\NegativeWords\NegativeWordsTest\obj\Debug\Fakes\da\b\DataAccess.Fakes.xml
+C:\Users\hemansj.TOSHIBATEC\Documents\Visual Studio 2012\Projects\NegativeWords\NegativeWordsTest\obj\Debug\Fakes\da\b\DataAccess.Fakes.dll
+C:\Users\hemansj.TOSHIBATEC\Documents\Visual Studio 2012\Projects\NegativeWords\NegativeWordsTest\obj\Debug\Fakes\da\b\DataAccess.Fakes.pdb
+C:\Users\hemansj.TOSHIBATEC\Documents\Visual Studio 2012\Projects\NegativeWords\NegativeWordsTest\obj\Debug\Fakes\da\b\DataAccess.dll
+C:\Users\hemansj.TOSHIBATEC\Documents\Visual Studio 2012\Projects\NegativeWords\NegativeWordsTest\obj\Debug\Fakes\da\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\hemansj.TOSHIBATEC\Documents\Visual Studio 2012\Projects\NegativeWords\NegativeWordsTest\obj\Debug\Fakes\da\b\DataAccess.pdb
+C:\Users\hemansj.TOSHIBATEC\Documents\Visual Studio 2012\Projects\NegativeWords\NegativeWordsTest\obj\Debug\Fakes\da\o\f.csprojResolveAssemblyReference.cache
+C:\Users\hemansj.TOSHIBATEC\Documents\Visual Studio 2012\Projects\NegativeWords\NegativeWordsTest\obj\Debug\Fakes\da\o\DataAccess.Fakes.dll
+C:\Users\hemansj.TOSHIBATEC\Documents\Visual Studio 2012\Projects\NegativeWords\NegativeWordsTest\obj\Debug\Fakes\da\o\DataAccess.Fakes.pdb

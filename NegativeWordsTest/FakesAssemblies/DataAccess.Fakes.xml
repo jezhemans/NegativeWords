@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DataAccess.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:DataAccess.Fakes.ShimWords">
+            <summary>Shim type of DataAccess.Words</summary>
+        </member>
+        <member name="M:DataAccess.Fakes.ShimWords.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:DataAccess.Fakes.ShimWords.#ctor(DataAccess.Words)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:DataAccess.Fakes.ShimWords.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:DataAccess.Fakes.ShimWords.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:DataAccess.Fakes.ShimWords.Bind(DataAccess.INegativeWords)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:DataAccess.Fakes.ShimWords.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:DataAccess.Fakes.ShimWords.Constructor">
+            <summary>Sets the shim of Words.Words()</summary>
+        </member>
+        <member name="P:DataAccess.Fakes.ShimWords.ConstructorString">
+            <summary>Sets the shim of Words.Words(String word)</summary>
+        </member>
+        <member name="P:DataAccess.Fakes.ShimWords.GetNegativeWords">
+            <summary>Sets the shim of Words.GetNegativeWords()</summary>
+        </member>
+        <member name="P:DataAccess.Fakes.ShimWords.WordGet">
+            <summary>Sets the shim of Words.get_Word()</summary>
+        </member>
+        <member name="P:DataAccess.Fakes.ShimWords.WordSetString">
+            <summary>Sets the shim of Words.set_Word(String value)</summary>
+        </member>
+        <member name="T:DataAccess.Fakes.ShimWords.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:DataAccess.Fakes.ShimWords.AllInstances.GetNegativeWords">
+            <summary>Sets the shim of Words.GetNegativeWords()</summary>
+        </member>
+        <member name="P:DataAccess.Fakes.ShimWords.AllInstances.WordGet">
+            <summary>Sets the shim of Words.get_Word()</summary>
+        </member>
+        <member name="P:DataAccess.Fakes.ShimWords.AllInstances.WordSetString">
+            <summary>Sets the shim of Words.set_Word(String value)</summary>
+        </member>
+        <member name="T:DataAccess.Fakes.StubINegativeWords">
+            <summary>Stub type of DataAccess.INegativeWords</summary>
+        </member>
+        <member name="M:DataAccess.Fakes.StubINegativeWords.#ctor">
+            <summary>Initializes a new instance of type StubINegativeWords</summary>
+        </member>
+        <member name="M:DataAccess.Fakes.StubINegativeWords.da::DataAccess#INegativeWords#GetNegativeWords">
+            <summary>Sets the stub of INegativeWords.GetNegativeWords()</summary>
+        </member>
+        <member name="F:DataAccess.Fakes.StubINegativeWords.GetNegativeWords">
+            <summary>Sets the stub of INegativeWords.GetNegativeWords()</summary>
+        </member>
+        <member name="T:DataAccess.Fakes.StubWords">
+            <summary>Stub type of DataAccess.Words</summary>
+        </member>
+        <member name="M:DataAccess.Fakes.StubWords.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:DataAccess.Fakes.StubWords.#ctor(System.String)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:DataAccess.Fakes.StubWords.InitializeStub">
+            <summary>Initializes a new instance of type StubWords</summary>
+        </member>
+        <member name="P:DataAccess.Fakes.StubWords.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:DataAccess.Fakes.StubWords.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:DataAccess.Fakes.StubWords.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>

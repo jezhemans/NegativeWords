@@ -1,0 +1,4 @@
+C:\Users\hemansj.TOSHIBATEC\Documents\Visual Studio 2012\Projects\NegativeWords\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\hemansj.TOSHIBATEC\Documents\Visual Studio 2012\Projects\NegativeWords\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\hemansj.TOSHIBATEC\Documents\Visual Studio 2012\Projects\NegativeWords\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\hemansj.TOSHIBATEC\Documents\Visual Studio 2012\Projects\NegativeWords\DataAccess\obj\Debug\DataAccess.pdb
